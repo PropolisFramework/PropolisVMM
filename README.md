@@ -12,7 +12,7 @@ Propolis: VMM (Virtual Machine Manager)
 
 ### :hammer: Build Instructions 
 
-#### Linux
+#### :penguin: Linux
 :link: Source: https://electron.atom.io/docs/development/build-instructions-linux/
 
 ## :cloud: Installation
