@@ -8,12 +8,12 @@ Propolis: VMM (Virtual Machine Manager)
 2. Make sure that `electron` is setup globally (`sudo npm install -g electron --unsafe-perm=true --allow-root`).
 3. To run your application: `electron .`
 
-:link: Source: https://electron.atom.io/docs/tutorial/quick-start/
+Source: https://electron.atom.io/docs/tutorial/quick-start/
 
 ### :hammer: Build Instructions 
 
-#### :penguin: Linux
-:link: Source: https://electron.atom.io/docs/development/build-instructions-linux/
+#### Linux
+Source: https://electron.atom.io/docs/development/build-instructions-linux/
 
 ## :cloud: Installation
 
