@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/PropolisFramework/PropolisVMM/issues"
   },
-  "homepage": "https://github.com/PropolisFramework/PropolisVMM#readme"
+  "homepage": "https://github.com/PropolisFramework/PropolisVMM#readme",
+  "dependencies": {
+    "diskusage": "^0.2.4"
+  }
 }
